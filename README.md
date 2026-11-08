@@ -54,3 +54,21 @@ Ankit
 
 ## Project Status
 Completed – Exploratory Data Analysis
+
+## 📊 Project Visualizations
+
+### 1. Product Category
+![Product Category](product_category.png)
+
+### 2. Profit by Region
+![Profit by Region](profit_by_region.png)
+
+### 3. Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales_trend.png)
+
+### 4. Sales by Product Category
+![Sales by Product Category](sales_by_product_category.png)
+
+### 5. Top 10 Products by Sales
+![Top 10 Products](top_10_products.png)
+
